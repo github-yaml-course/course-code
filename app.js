@@ -1,1 +1,2 @@
-alert
+alert(true)
+alert(true)
